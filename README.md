@@ -5,4 +5,4 @@ A single-page dynamic application with a mobile-first, responsive design, that a
 ## Notes
 
 * Uses local storage to store posts, images, and comments.
-* Deployed using GitHub pages.
+* Deployed using GitHub Actions.
