@@ -6,3 +6,4 @@ A single-page dynamic application with a mobile-first, responsive design, that a
 
 * Uses local storage to store posts, images, and comments.
 * Deployed using GitHub Actions.
+* See the extended backend version (i.e. using node.js, express.js, and sequelize) here: [Backend Web Gallery](https://github.com/nuhgooyin/Backend-Web-Gallery)
